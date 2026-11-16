@@ -6,10 +6,10 @@
 
 ### 🚀 Hakkımda
 
-* 💻 Bilgisayar Programcılığı mezunuyum. Şu an Anadolu Üniversitesi Açıköğretim Fakültesi İşletme Yönetimi ile eğitimime devam ediyorum.
-* 🛠️ Backend mimarileri, **C#**, **ASP.NET Core MVC / Web API**, **Entity Framework Core** ve **MS SQL Server** üzerine odaklanarak ölçeklenebilir ve güvenli web uygulamaları geliştiriyorum.
-* 🌐 Gerçek hayata dokunan projeler üretmeyi seviyorum; işletmeler için dijital vitrinler, QR menü/kafe otomasyon sistemleri ve masaüstü yönetim otomasyonları tasarlayıp yayına alıyorum.
-* 🌱 Sürekli öğreniyor, yeni teknolojileri araştırıyor ve kod kalitesini artırmak için pratikler yapıyorum.
+- 💻 Bilgisayar Programcılığı mezunuyum. Şu an Anadolu Üniversitesi Açıköğretim Fakültesi İşletme Yönetimi ile eğitimime devam ediyorum.
+- 🛠️ Backend mimarileri, **C#**, **ASP.NET Core MVC / Web API**, **Entity Framework Core** ve **MS SQL Server** üzerine odaklanarak ölçeklenebilir ve güvenli web uygulamaları geliştiriyorum.
+- 🌐 Gerçek hayata dokunan projeler üretmeyi seviyorum; işletmeler için dijital vitrinler, QR menü/kafe otomasyon sistemleri ve masaüstü yönetim otomasyonları tasarlayıp yayına alıyorum.
+- 🌱 Sürekli öğreniyor, yeni teknolojileri araştırıyor ve kod kalitesini artırmak için pratikler yapıyorum.
 
 ---
 
@@ -38,23 +38,27 @@
 *(Projelerin detaylı kurulum adımları, veritabanı şemaları ve ekran görüntüleri ilgili repolarda ayrıntılı olarak yer almaktadır.)*
 
 #### 1. 🌐 Cihan Mobilya — Özel Ölçü Mobilya Atölyesi Web Sitesi ([İncele](https://github.com/Ghost-Altinkaynak/Mobilya.API))
-* **Teknolojiler:** C# | ASP.NET Core Web API | Entity Framework Core (Code First + Migrations) | SQL Server | HTML/CSS/JS
-* **Açıklama:** Özel ölçü mobilya yapan bir atölye için geliştirilmiş tek sayfalık tanıtım sitesi ve onu yöneten yönetim paneli. Tam bir ASP.NET Core uygulaması olarak çalışır; hem REST API hem de yörüngeli (HTML / CSS / JS) arayüz yapısına sahiptir.
-* **Öne Çıkanlar:** JWT Doğrulama, rol tabanlı yetkilendirme, gelişmiş admin paneli, dinamik form yönetimi ve canlı ortam (Plesk / IIS) deployment altyapısı.
+- **Teknolojiler:** C# | ASP.NET Core Web API | Entity Framework Core (Code First + Migrations) | SQL Server | HTML/CSS/JS
+- **Açıklama:** Özel ölçü mobilya yapan bir atölye için geliştirilmiş tek sayfalık tanıtım sitesi ve onu yöneten yönetim paneli. Tam bir ASP.NET Core uygulaması olarak çalışır; hem REST API hem de yörüngeli (HTML / CSS / JS) arayüz yapısına sahiptir.
+- **Öne Çıkanlar:** JWT Doğrulama, rol tabanlı yetkilendirme, gelişmiş admin paneli, dinamik form yönetimi ve canlı ortam (Plesk / IIS) deployment altyapısı.
 
 #### 2. ☕ Cafe Otomasyonu ([İncele](https://github.com/Ghost-Altinkaynak/Cafe-Otomasyonu))
-* **Teknolojiler:** C# | Windows Forms (Guna UI) | Entity Framework 6 (DB First) | SQL Server | SQL Server Management Objects (SMO)
-* **Açıklama:** C# ve Windows Forms kullanılarak geliştirilmiş; masa, adisyon, personel, kasa/muhasebe ve cari hesap takiplerinin yapıldığı kapsamlı bir kafe yönetim otomasyonu.
-* **Öne Çıkanlar:** Guna UI ile modern arayüz tasarımı, masa durum takibi (Boş, Dolu, Rezerve), detaylı günlük gelir-gider raporlama ve SQL Server yedekleme/geri yükleme (SMO) desteği.
+- **Teknolojiler:** C# | Windows Forms (Guna UI) | Entity Framework 6 (DB First) | SQL Server | SQL Server Management Objects (SMO)
+- **Açıklama:** C# ve Windows Forms kullanılarak geliştirilmiş; masa, adisyon, personel, kasa/muhasebe ve cari hesap takiplerinin yapıldığı kapsamlı bir kafe yönetim otomasyonu.
+- **Öne Çıkanlar:** Guna UI ile modern arayüz tasarımı, masa durum takibi (Boş, Dolu, Rezerve), detaylı günlük gelir-gider raporlama ve SQL Server yedekleme/geri yükleme (SMO) desteği.
 
 #### 3. 👤 Kullanıcı Yönetim Sistemi ([İncele](https://github.com/Ghost-Altinkaynak/Kullanici_Yonetim_Sistemi))
-* **Teknolojiler:** C# | Windows Forms (Guna UI) | SQL Server | ADO.NET
-* **Açıklama:** Guna UI kütüphanesi kullanılarak modern bir arayüzle tasarlanmış, kullanıcı bilgilerinin güvenli ve düzenli bir şekilde saklanmasını, güncellenmesini ve listelenmesini sağlayan masaüstü yönetim otomasyonu.
-* **Öne Çıkanlar:** Gelişmiş arama ve filtreleme, tam kapsamlı CRUD işlemleri ve kullanıcı dostu şık tasarım.
+- **Teknolojiler:** C# | Windows Forms (Guna UI) | SQL Server | ADO.NET
+- **Açıklama:** Guna UI kütüphanesi kullanılarak modern bir arayüzle tasarlanmış, kullanıcı bilgilerinin güvenli ve düzenli bir şekilde saklanmasını, güncellenmesini ve listelenmesini sağlayan masaüstü yönetim otomasyonu.
+- **Öne Çıkanlar:** Gelişmiş arama ve filtreleme, tam kapsamlı CRUD işlemleri ve kullanıcı dostu şık tasarım.
 
 ---
 
 ### 📈 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-Altinkaynak&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghost-Altinkaynak&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -62,3 +66,14 @@
 </p>
 
 ---
+
+### 📫 İletişim & Sosyal Medya
+
+<p>
+  <a href="https://linkedin.com/in/mustafa-altinkaynak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mustafaaltinkaynak.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
