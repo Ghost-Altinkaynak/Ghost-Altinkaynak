@@ -62,9 +62,3 @@
 </p>
 
 ---
-
-### 📫 İletişim & Sosyal Medya
-
-<p>
-  <a href="https://linkedin.com/in/mustafa-altinkaynak" target="_blank">
-    <img src="
