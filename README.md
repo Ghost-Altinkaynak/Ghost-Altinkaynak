@@ -2,11 +2,6 @@
 
 <h3 align="center">Backend Geliştirici | .NET Ekosistemi & Web Teknolojileri Tutkunu</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghost-Altinkaynak&label=Profil%20Ziyaretci%20Sayisi&color=blue&style=flat-square" alt="visitor count"/>
-  <img src="https://img.shields.io/badge/Status-Aktif%20Geliştirme-success?style=flat-square" alt="status">
-</p>
-
 ---
 
 ### 🚀 Hakkımda
